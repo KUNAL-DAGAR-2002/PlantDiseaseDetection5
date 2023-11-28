@@ -4,4 +4,6 @@ tensorflow
 keras
 scikit-learn
 matplotlib
+flask
 gunicorn
+
